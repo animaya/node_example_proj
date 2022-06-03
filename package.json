@@ -1,0 +1,25 @@
+{
+  "name": "node_example_proj",
+  "version": "1.0.0",
+  "description": "just test",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animaya/node_example_proj.git"
+  },
+  "author": "Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/animaya/node_example_proj/issues"
+  },
+  "homepage": "https://github.com/animaya/node_example_proj#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  },
+  "dependencies": {
+    "metarhia-common": "^0.0.38"
+  }
+}
